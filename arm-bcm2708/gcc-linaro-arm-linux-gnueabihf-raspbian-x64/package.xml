@@ -1,0 +1,7 @@
+<package name="raspbian-arm-bcm2708-ctc"
+         host="linux64"
+         target="arm-bcm2708"
+         version="r1"
+         sysroot="libc"
+         gdb="bin/arm-linux-gnueabihf-gdb"
+         toolchain_file="toolchain.cmake" />
