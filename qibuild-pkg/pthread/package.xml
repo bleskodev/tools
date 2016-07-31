@@ -1,0 +1,2 @@
+<package name="pthread" version="2.13" target="rpi" >
+</package>
